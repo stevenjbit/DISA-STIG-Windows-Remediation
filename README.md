@@ -885,7 +885,7 @@ Phase 2: Post-Remediation
 After executing the PowerShell automation suite, a follow-up scan confirmed that all targeted vulnerabilities were successfully remediated. The system is now compliant with the specified DISA STIG controls.
 
 Figure 2: Final vulnerability scan results showing successful remediation (Green/Passed).
-<img src="https://i.imgur.com/VcwJLBh.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/UeKyoOs.png" height="80%" width="80%" />
 
 
 # 🏁 Conclusion
